@@ -7,9 +7,6 @@
     "light": "#07C983",
     "dark": "#15803D"
   },
-  "integrations": {
-    "crispchat": "YOUR_CRISP_WEBSITE_ID"
-  },
   "favicon": "/favicon.svg",
   "navigation": {
     "tabs": [
